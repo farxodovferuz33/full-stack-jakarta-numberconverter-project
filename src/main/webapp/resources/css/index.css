@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.button {
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+.button:hover {
+    background-color: #444;
+    color: #fff;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.button:active {
+    background-color: white;
+    transform: scale(0.9);
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1:hover {
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+}
+
+a{
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+
+body{
+    background: #cccccc;
+}
