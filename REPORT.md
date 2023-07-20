@@ -9,7 +9,7 @@ This report describes the results of the [INSERT_TASK_NAME] task.
 
 ## Author
 
-* **Author:** [YOUR_NAME]
+* **Author:** [FERUZ FARXODOV]
 
 ## Contents
 
